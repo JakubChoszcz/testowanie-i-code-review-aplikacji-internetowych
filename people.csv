@@ -1,0 +1,6 @@
+id,name,age,salary,isStudent
+1,Piotr,33,9704.11,true
+2,Tomasz,43,3562.45,true
+3,Tomasz,60,5278.83,false
+4,Maria,41,4427.94,false
+5,Kasia,65,4191.69,true
